@@ -1,8 +1,6 @@
 # Hatake
 
-> Unofficial fan site and YouTube search for [はじめしゃちょーの畑](https://www.youtube.com/@hajimeshachos_hatake).
-
-よろしく土！
+> Unofficial fan site and YouTube search for [Hajime Shacho's Hatake](https://www.youtube.com/@hajimeshachos_hatake).
 
 [🔗 Live Site](https://hatake.kk-web.link)
 
@@ -27,4 +25,4 @@ pnpm dev
 
 ---
 
-This is an unofficial fan-made site and is not affiliated with はじめしゃちょー or UUUM.
+This is an unofficial fan-made site and is not affiliated with Hajime Shacho or UUUM.
