@@ -2,7 +2,7 @@
 
 > Unofficial fan site and YouTube search for [Hajime Shacho's Hatake](https://www.youtube.com/@hajimeshachos_hatake).
 
-[🔗 Live Site](https://hatake.kk-web.link)
+[🔗 Live Site](https://hatake.kkweb.io)
 
 ## ✨ Features
 
